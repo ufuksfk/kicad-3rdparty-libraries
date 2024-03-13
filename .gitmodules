@@ -1,9 +1,9 @@
-[submodule "libraries/esp-kicad-libraries"]
-	path = libraries/esp-kicad-libraries
-	url = https://github.com/espressif/kicad-libraries.git
-[submodule "libraries/SparkFun-KiCad-Libraries"]
-	path = libraries/SparkFun-KiCad-Libraries
-	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries.git
 [submodule "libraries/digikey-kicad-library"]
 	path = libraries/digikey-kicad-library
 	url = https://github.com/Digi-Key/digikey-kicad-library.git
+[submodule "libraries/SparkFun-KiCad-Libraries"]
+	path = libraries/SparkFun-KiCad-Libraries
+	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries.git
+[submodule "libraries/esp-kicad-libraries"]
+	path = libraries/esp-kicad-libraries
+	url = https://github.com/espressif/kicad-libraries.git
